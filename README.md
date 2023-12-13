@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Math Murdock
+## Bem-vindo(a) ao perfil de Matheus Trindade
 
  <div>
    <a href="https://github.com/MathMurdock">
